@@ -7,7 +7,7 @@ Saml2aws plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 ## Install
 
 ```
-asdf plugin-add saml2aws https://git@github.com:drgeb/asdf-saml2aws.git
+asdf plugin-add saml2aws https://github.com/drgeb/asdf-saml2aws.git
 ```
 
 ## Use
